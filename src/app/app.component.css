@@ -1,3 +1,13 @@
 h1{
   text-align: center;
 }
+.mat-button-toggle-group{
+  background: black;
+  width: 100%;
+}
+
+.mat-button-toggle {
+  width: 16.6%;
+  height: auto;
+  background: #FF6A6A;
+}
